@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rodrigoferreiramoura/JogoXadrez/chess_console/JogoXadrez/JogoXadrez.csproj",
+      "projectUniqueName": "/Users/rodrigoferreiramoura/chess_console/JogoXadrez/JogoXadrez.csproj",
       "projectName": "JogoXadrez",
-      "projectPath": "/Users/rodrigoferreiramoura/JogoXadrez/chess_console/JogoXadrez/JogoXadrez.csproj",
+      "projectPath": "/Users/rodrigoferreiramoura/chess_console/JogoXadrez/JogoXadrez.csproj",
       "packagesPath": "/Users/rodrigoferreiramoura/.nuget/packages/",
-      "outputPath": "/Users/rodrigoferreiramoura/JogoXadrez/chess_console/JogoXadrez/obj/",
+      "outputPath": "/Users/rodrigoferreiramoura/chess_console/JogoXadrez/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/rodrigoferreiramoura/.nuget/NuGet/NuGet.Config"
