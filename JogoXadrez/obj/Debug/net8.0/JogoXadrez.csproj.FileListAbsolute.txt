@@ -1,0 +1,15 @@
+/Users/rodrigoferreiramoura/JogoXadrez/chess_console/JogoXadrez/bin/Debug/net8.0/JogoXadrez
+/Users/rodrigoferreiramoura/JogoXadrez/chess_console/JogoXadrez/bin/Debug/net8.0/JogoXadrez.deps.json
+/Users/rodrigoferreiramoura/JogoXadrez/chess_console/JogoXadrez/bin/Debug/net8.0/JogoXadrez.runtimeconfig.json
+/Users/rodrigoferreiramoura/JogoXadrez/chess_console/JogoXadrez/bin/Debug/net8.0/JogoXadrez.dll
+/Users/rodrigoferreiramoura/JogoXadrez/chess_console/JogoXadrez/bin/Debug/net8.0/JogoXadrez.pdb
+/Users/rodrigoferreiramoura/JogoXadrez/chess_console/JogoXadrez/obj/Debug/net8.0/JogoXadrez.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rodrigoferreiramoura/JogoXadrez/chess_console/JogoXadrez/obj/Debug/net8.0/JogoXadrez.AssemblyInfoInputs.cache
+/Users/rodrigoferreiramoura/JogoXadrez/chess_console/JogoXadrez/obj/Debug/net8.0/JogoXadrez.AssemblyInfo.cs
+/Users/rodrigoferreiramoura/JogoXadrez/chess_console/JogoXadrez/obj/Debug/net8.0/JogoXadrez.csproj.CoreCompileInputs.cache
+/Users/rodrigoferreiramoura/JogoXadrez/chess_console/JogoXadrez/obj/Debug/net8.0/JogoXadrez.sourcelink.json
+/Users/rodrigoferreiramoura/JogoXadrez/chess_console/JogoXadrez/obj/Debug/net8.0/JogoXadrez.dll
+/Users/rodrigoferreiramoura/JogoXadrez/chess_console/JogoXadrez/obj/Debug/net8.0/refint/JogoXadrez.dll
+/Users/rodrigoferreiramoura/JogoXadrez/chess_console/JogoXadrez/obj/Debug/net8.0/JogoXadrez.pdb
+/Users/rodrigoferreiramoura/JogoXadrez/chess_console/JogoXadrez/obj/Debug/net8.0/JogoXadrez.genruntimeconfig.cache
+/Users/rodrigoferreiramoura/JogoXadrez/chess_console/JogoXadrez/obj/Debug/net8.0/ref/JogoXadrez.dll
